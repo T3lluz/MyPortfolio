@@ -1,2 +1,0 @@
-# MyPortfolio
-Fredrik Stalsberg Portfolio
